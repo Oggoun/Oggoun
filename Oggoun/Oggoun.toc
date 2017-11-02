@@ -1,0 +1,7 @@
+## Interface: 70200
+## Author: Oggoun
+## Version: 1.0
+## Title: Odin
+## Notes: Just a single hack to add Google's Roboto, San Fransisco Text and PT Sans fonts and custom sounds to WoW UI
+
+Odin.lua
